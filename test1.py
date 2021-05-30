@@ -7,8 +7,12 @@ This is test line b
 *******************
 This is the modification after the first commit
 ####################################################
-Script has been modified for better reach
+Script has been modified for HIGHER reach
 ###
+
 **************
 *************
+***Adding as part of a TEST***
+***
 Modification made on the "primary to the master branch"
+
